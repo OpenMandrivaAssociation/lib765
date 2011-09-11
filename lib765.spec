@@ -61,6 +61,9 @@ files to allow you to develop with lib765.
 %setup -q
 
 %build
+#fix x86_64 OS detection first
+autoreconf -if
+
 %configure2_5x
 %make
 
