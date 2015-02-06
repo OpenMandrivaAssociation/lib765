@@ -7,7 +7,7 @@
 Summary:	Emulation of the uPD765a (AKA Intel 8272) Floppy Disc Controller
 Name:		lib%{sname}
 Version:	0.4.2
-Release:	2
+Release:	3
 License:	GPLv2+
 Group:		System/Libraries
 Url:		http://www.seasip.demon.co.uk/Unix/LibDsk/
