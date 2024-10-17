@@ -10,7 +10,7 @@ Version:	0.4.2
 Release:	3
 License:	GPLv2+
 Group:		System/Libraries
-Url:		http://www.seasip.demon.co.uk/Unix/LibDsk/
+Url:		https://www.seasip.demon.co.uk/Unix/LibDsk/
 Source0:	%{name}-%{version}.tar.gz
 BuildRequires:	libdsk-devel
 
