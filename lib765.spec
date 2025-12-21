@@ -12,6 +12,11 @@ License:	GPLv2+
 Group:		System/Libraries
 Url:		https://www.seasip.demon.co.uk/Unix/LibDsk/
 Source0:	%{name}-%{version}.tar.gz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	libdsk-devel
 
 %description
